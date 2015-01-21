@@ -11,5 +11,10 @@ namespace TestConsole
         static void Main(string[] args)
         {
         }
+
+        static void f()
+        {
+
+        }
     }
 }

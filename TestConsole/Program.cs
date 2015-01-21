@@ -12,6 +12,7 @@ namespace TestConsole
         {
         }
 
+
         static void f()
         {
 

@@ -21,5 +21,10 @@ namespace TestConsole
         {
              
         }
+
+        static void addedMethod()
+        {
+
+        }
     }
 }

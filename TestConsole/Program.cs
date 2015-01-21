@@ -16,5 +16,10 @@ namespace TestConsole
         {
 
         }
+
+        static void g()
+        {
+
+        }
     }
 }
